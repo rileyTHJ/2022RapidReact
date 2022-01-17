@@ -17,7 +17,12 @@ public class ExampleSubsystem extends SubsystemBase {
 // cb - agree we need some code here 1/17/22
 
 
-  public ExampleSubsystem() {}
+
+  public ExampleSubsystem() {
+
+// this is where the new constructor code will actually go
+
+  }
 
   @Override
   public void periodic() {
